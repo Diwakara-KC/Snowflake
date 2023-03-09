@@ -1,4 +1,4 @@
 pandas
 numpy
-snowflake-snowpark-python3
+snowflake-snowpark-python
 setuptools
